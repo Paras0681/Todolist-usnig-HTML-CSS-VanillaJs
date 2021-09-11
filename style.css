@@ -1,0 +1,37 @@
+.insert,table{
+	text-align: center;
+	margin-top: 25px;
+
+}
+
+.form{
+	margin:	auto;
+	max-width: 80%;
+	text-align: center;
+}
+
+input[type='submit' ], button, [arial-label], a{
+	cursor: pointer;
+}
+
+#edit-box{
+	display: none;
+	max-width: 80%;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.output{
+	width: 	50%;
+	margin-left: 30%;
+	background-color: aquamarine	;
+	padding-left: 10px;
+	padding-top	: 10px;
+	padding-bottom: 10px;
+	border-radius: 	20px;
+}
+
+input{ 
+	background-color: lightgrey;
+	border-radius: 10px;
+}
